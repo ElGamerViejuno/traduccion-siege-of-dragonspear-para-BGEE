@@ -103,7 +103,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 **Versión 0.70 BETA (??/??/2023)**
 - Se ha testeado otra nueva partida de principio a fin, incluyendo diferentes "planes de acción" con un personaje hombre bárbaro y un nuevo grupo de acompañantes. Corrigiendo una gran cantidad de palabras, adaptándolas al tratamiento de usía.
 - Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía y frases para personajes femeninos añadidas.
-- Se ha corregido un error masivo que impedía escuchar numerosas voces añadidas en líneas que tuvieran una versión con protogonistas mujer, estas voces no funcionaban luego si jugabas un personaje protagonista hombre. Incluso voces importantes como las del narrador entre capítulos nunca se activaban.
+- Se ha corregido un error masivo que impedía escuchar numerosas voces añadidas en numerosas líneas que tuvieran una versión para protagonistas femeninos, estas voces no funcionaban si jugabas con un personaje protagonista masculino. Incluso voces importantes como las del narrador entre capítulos nunca se activaban.
 
 ## Recomendaciones y agradecimientos
 Recordad que se trata de un proyecto que puede llevar años, con continuas revisiones y correcciones de líneas añadiendo el tratamiento de usía y líneas para personajes femeninos.
