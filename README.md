@@ -100,6 +100,11 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - La palabra "Soultaker" en referencia a un objeto ha sido sustituida por "Robaalmas".
 - Se han traducido y testeado los mods más relevantes diseñados para mejorar la experiencia con esta expansión, buscando la mayor homogeneidad posible en todas las líneas, haciendo que sea complicado distinguir entre el contenido original y estas modificaciones (Road to Discovery, Another Fine Hell, The Boareskyr Bridge Scene, Jastey's SoD Tweak Pack).
 
+**Versión 0.70 BETA (??/??/2023)**
+- Se ha testeado otra nueva partida de principio a fin, incluyendo diferentes "planes de acción" con un personaje hombre bárbaro y un nuevo grupo de acompañantes. Corrigiendo una gran cantidad de palabras, adaptándolas al tratamiento de usía.
+- Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía y frases para personajes femeninos añadidas.
+- Se ha corregido un error masivo que impedía escuchar numerosas voces añadidas en líneas que tuvieran una versión con protogonistas mujer, estas voces no funcionaban luego si jugabas un personaje protagonista hombre. Incluso voces importantes como las del narrador entre capítulos nunca se activaban.
+
 ## Recomendaciones y agradecimientos
 Recordad que se trata de un proyecto que puede llevar años, con continuas revisiones y correcciones de líneas añadiendo el tratamiento de usía y líneas para personajes femeninos.
 
