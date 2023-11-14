@@ -104,7 +104,8 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se ha testeado otra nueva partida de principio a fin, incluyendo diferentes "planes de acción" con un personaje hombre bárbaro y un nuevo grupo de acompañantes. Corrigiendo una gran cantidad de palabras, adaptándolas al tratamiento de usía.
 - Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía y frases para personajes femeninos añadidas.
 - La palabra "Wight" en referencia a un tipo de criatura no muerta ha sido sustituida por "Tumulario".
-- La palabra "Twoedged" utilizada para referirse a una NPC mujer llamada Simonetta Twoedged a sido sustituida por "Dosfilos", además se han corregido numerosas líneas relacionadas con este personaje que no la describían correctamente.
+- La palabra "Twoedged" utilizada para referirse a una NPC mujer llamada "Simonetta Twoedged" a sido sustituida por "Dosfilos", además se han corregido todas las líneas relacionadas con este personaje que no la describían correctamente.
+- Se han corregido todas las líneas relacionadas una NPC mujer llamada "Vigilante Halasan" que no la describían correctamente.
 - Se ha corregido un error masivo que impedía escuchar voces añadidas en numerosas líneas que tuvieran una versión para protagonistas femeninos, estas voces no funcionaban si jugabas con un personaje protagonista masculino. Incluso voces importantes como las del narrador entre capítulos nunca se activaban.
 
 ## Recomendaciones y agradecimientos
