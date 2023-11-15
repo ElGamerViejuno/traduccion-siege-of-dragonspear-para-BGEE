@@ -106,7 +106,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - La palabra "Wight" en referencia a un tipo de criatura no muerta ha sido sustituida por "Tumulario".
 - La palabra "Twoedged" utilizada para referirse a una NPC mujer llamada "Simonetta Twoedged" a sido sustituida por "Dosfilos", además se han corregido todas las líneas relacionadas con este personaje que no la describían correctamente.
 - Se han corregido todas las líneas relacionadas una NPC mujer llamada "Vigilante Halasan" que no la describían correctamente.
-- Se ha corregido un error masivo que impedía escuchar voces añadidas en numerosas líneas que tuvieran una versión para protagonistas femeninos, estas voces no funcionaban si jugabas con un personaje protagonista masculino. Incluso voces importantes como las del narrador entre capítulos nunca se activaban.
+- Se ha corregido un error masivo que impedía escuchar las voces añadidas en numerosas líneas que tuvieran una versión para protagonistas femeninos, estas voces no funcionaban si jugabas con un personaje protagonista masculino. Incluso voces importantes como las del narrador entre capítulos nunca se activaban.
 
 ## Recomendaciones y agradecimientos
 Recordad que se trata de un proyecto que puede llevar años, con continuas revisiones y correcciones de líneas añadiendo el tratamiento de usía y líneas para personajes femeninos.
