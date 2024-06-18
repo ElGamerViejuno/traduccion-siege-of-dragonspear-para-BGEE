@@ -108,6 +108,13 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se han corregido todas las líneas relacionadas una NPC mujer llamada "Vigilante Halasan" que no la describían correctamente.
 - Se ha corregido un error masivo que impedía escuchar las voces añadidas en numerosas líneas que tuvieran una versión para protagonistas femeninos, estas voces no funcionaban si jugabas con un personaje protagonista masculino. Incluso voces importantes como las del narrador entre capítulos nunca se activaban.
 
+**Versión 0.80 BETA (??/??/2024) (Todavía sin lanzamiento)**
+- Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía y frases para personajes femeninos añadidas (Gracias Eleriel por los errores reportados).
+- Se han revisado todas las palabras sobre cargos, rangos militares, títulos nobiliarios y tratamientos varios puesto que según la RAE estas se deben escribir con minúscula tanto si acompañan al nombre propio como si no. Siempre con la excepción de que estas aparezcan como primera palabra al inicio de cualquier tipo de línea.
+- (Pendiente de aprobación) Todos las palabras relacionadas con "Gran Trasgo" y "Hobgoblin" han sido sustituidas por "Hobotrasgo" en esta traducción y en la traducción original de ClanDlan para Baldur's Gate, buscando homogeneizar todos los textos del juego base y su expansión.
+- (Pendiente de aprobación) Las palabras relacionadas con el proyectil de las hondas "Piedra/Bala/Plomo" han sido sustituidas y unificadas en conjunto como "Plomo" en esta traducción y en la traducción original de ClanDlan para Baldur's Gate, buscando homogeneizar todos los textos del juego base y su expansión.
+- Se ha revisado como aparecen los textos de las descripciones de objetos, notas y pergaminos en esta traducción y en la traducción original de ClanDlan para Baldur's Gate, buscando homogeneizar todos los textos del juego base y su expansión.
+
 ## Recomendaciones y agradecimientos
 Recordad que se trata de un proyecto que puede llevar años, con continuas revisiones y correcciones de líneas añadiendo el tratamiento de usía y líneas para personajes femeninos.
 
