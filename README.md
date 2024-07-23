@@ -109,11 +109,11 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se ha corregido un error masivo que impedía escuchar las voces añadidas en numerosas líneas que tuvieran una versión para protagonistas femeninos, estas voces no funcionaban si jugabas con un personaje protagonista masculino. Incluso voces importantes como las del narrador entre capítulos nunca se activaban.
 
 **Versión 0.80 BETA (??/??/2024) (Todavía sin lanzamiento)**
-- Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía y frases para personajes femeninos añadidas (Gracias Otaku_fanatic/Eleriel por los errores reportados).
+- Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía y frases para personajes femeninos añadidas (Gracias Otaku_fanatic por todos los reportes).
 - Se han revisado exhaustivamente las palabras relacionadas con cargos, rangos militares, títulos nobiliarios y tratamientos varios, intentando seguir las pautas de la RAE respecto a si estas deben escribirse con mayúsculas o minúsculas.
-- (Pendiente de aprobación) Todas las palabras relacionadas con "Gran Trasgo" y "Hobgoblin" han sido sustituidas por "Hobotrasgo" en esta traducción y en la traducción original de ClanDlan para Baldur's Gate, buscando homogeneizar todos los textos del juego base y su expansión.
-- (Pendiente de aprobación) Las palabras relacionadas con el proyectil de las hondas "Piedra/Bala/Plomo" han sido sustituidas y unificadas en conjunto como "Plomo" en esta traducción y en la traducción original de ClanDlan para Baldur's Gate, buscando homogeneizar todos los textos del juego base y su expansión.
-- Se ha revisado como aparecen los textos de las descripciones de objetos, notas y pergaminos en esta traducción y en la traducción original de ClanDlan para Baldur's Gate, buscando homogeneizar todos los textos del juego base y su expansión.
+- Todas las palabras relacionadas con "Hobgoblin" han sido sustituidas por "Gran trasgo", buscando homogeneizar la traducción de la expansión con la traducción original de ClanDlan tanto en BGEE como BG2EE.
+- Las palabras relacionadas con el proyectil de las hondas "Piedra/Bala/Plomo" han sido renombradas únicamente como "Plomo" en esta traducción como en la traducción original de ClanDlan para Baldur's Gate, buscando homogeneizar todos los textos del juego base y su expansión.
+- Se ha revisado como aparecen los textos de las descripciones de objetos, notas y pergaminos en esta traducción y en la traducción original de ClanDlan para Baldur's Gate, buscando homogeneizar todos los textos del juego base, la expansión y BG2EE.
 
 ## Recomendaciones y agradecimientos
 Recordad que se trata de un proyecto que puede llevar años, con continuas revisiones y correcciones de líneas añadiendo el tratamiento de usía y líneas para personajes femeninos.
