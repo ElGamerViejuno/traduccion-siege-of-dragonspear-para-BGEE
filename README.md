@@ -117,7 +117,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se ha revisado como aparecen los textos de las descripciones de objetos, notas y pergaminos en esta traducción, buscando homogeneizar las descripciones de los objetos para dejarlas en un formato similar a las traducciones originales de ClanDlan para BGEE y BG2EE.
 
 ## Recomendaciones y agradecimientos
-Recordad que se trata de un proyecto realizado por una sola persona, que puede llevar años para considerarlo al 100% por finalizado, con nuevas revisiones y atendiendo nuevos reportes de los jugadores.
+Recordad que se trata de un proyecto realizado por una sola persona, que puede llevar años para considerarlo al 100% finalizado, con nuevas revisiones y atendiendo nuevos reportes de los jugadores.
 
 ¡Mucha paciencia!
 
