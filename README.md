@@ -113,7 +113,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se han revisado palabras relacionadas con cargos, rangos militares y tratamientos varios, intentando seguir las pautas de la RAE respecto a si estas deben escribirse con mayúsculas o minúsculas. Con excepciones para títulos nobiliarios y ciertos personajes importantes en el lore, ya que estos que siempre han sido leídos con mayúsculas tanto en las antiguas traducciones de ClanDlan como en su versión original en inglés.
 - Todas las palabras relacionadas con "Hobgoblin" han sido sustituidas por "Gran trasgo", al igual que la traducción original de ClanDlan tanto en BGEE como BG2EE. También se ha sustituido la palabra "goblinoide" por "trasgoide".
 - Las palabras relacionadas con el proyectil de las hondas "Piedra/Bala/Plomo" han sido renombradas únicamente como "Plomo" al igual que la traducción original de ClanDlan para BGEE.
-- La palabra "bloom-sac" relacionada con un objeto y diversas líneas sobre una gesta a sido renombrada como "vaina" (Vaina Micónida).
+- La palabra "bloom-sac" relacionada con un objeto y diversas líneas sobre una misión a sido renombrada como "vaina" (Vaina Micónida).
 - Se han revisado los títulos de las gestas dentro del diario.
 - Se ha revisado como aparecen los textos de las descripciones de objetos, notas y pergaminos en esta traducción, buscando homogeneizar las descripciones de los objetos para dejarlas en un formato similar a las traducciones originales de ClanDlan para BGEE y BG2EE.
 
