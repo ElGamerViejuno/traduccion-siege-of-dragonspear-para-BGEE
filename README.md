@@ -110,7 +110,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 
 **Versión 0.80 BETA (??/??/2024) (Todavía sin lanzamiento)**
 - Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía y frases para personajes femeninos añadidas (Gracias Otaku_fanatic por todos los reportes).
-- Se han revisado palabras relacionadas con cargos, rangos militares y tratamientos varios, intentando seguir las pautas de la RAE respecto a si estas deben escribirse con mayúsculas o minúsculas. Con la excepción de los títulos nobiliarios y ciertos personajes importantes en el lore, ya que estos que siempre han sido leídos con mayúsculas tanto en las antiguas traducciones de ClanDlan como en su versión original en inglés.
+- Se han revisado palabras relacionadas con cargos, rangos militares y tratamientos varios, intentando seguir las pautas de la RAE respecto a si estas deben escribirse con mayúsculas o minúsculas. Con excepciones para títulos nobiliarios y ciertos personajes importantes en el lore, ya que estos que siempre han sido leídos con mayúsculas tanto en las antiguas traducciones de ClanDlan como en su versión original en inglés.
 - Todas las palabras relacionadas con "Hobgoblin" han sido sustituidas por "Gran trasgo", al igual que la traducción original de ClanDlan tanto en BGEE como BG2EE. También se ha sustituido la palabra "goblinoide" por "trasgoide".
 - Las palabras relacionadas con el proyectil de las hondas "Piedra/Bala/Plomo" han sido renombradas únicamente como "Plomo" al igual que la traducción original de ClanDlan para BGEE.
 - Se han revisado los títulos de las gestas dentro del diario.
