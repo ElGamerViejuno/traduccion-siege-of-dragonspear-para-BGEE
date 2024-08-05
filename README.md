@@ -15,7 +15,7 @@ Exactamente se trataba del primer capítulo de la expansión y poco más, pero m
 Actualmente la traducción se encuentra en estado de BETA, espero ir mejorándola poco a poco, adaptando las líneas con el mismo [tratamiento de usía](http://www.clandlan.net/foros/topic/29288-tratamiento-de-usia/) intentando simular un lenguaje español medieval, además de utilizar exactamente el mismo [diccionario de la lengua fantástica](http://diccionario.clandlan.net/) y el [glosario de términos](http://www.clandlan.net/foros/topic/34123-glosario-de-terminos-de-baldurs-gate/) utilizados en las anteriores traducciones de ClanDlan. Todo el feedback y reportes de errores que me podáis aportar será bienvenido ya que voy a darle un soporte continuado a la traducción revisando y corrigiendo todo lo que sea necesario hasta que podamos disponer de la mejor traducción posible.
 
 ## Descarga
-**[>>> TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.80 BETA <<<](https://drive.google.com/file/d/1BMGpkH8XsFLANElCGmTeRmzssaRiSdto)**
+**[>>> TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.80 BETA <<<](https://drive.google.com/file/d/1sMIBFoQ9SxUves4vSjm8dYCzXVyF2-3P)** 
 
 *Recuerda que se trata de una versión BETA; Quizás alguna vez te encuentres con alguna línea mal traducida sin revisar o con alguna palabra con el género equivocado. La mayoría de líneas han sido adaptadas al tratamiento de usía, pero puede colarse alguna palabra que todavía no este adaptada. Si juegas con un personaje femenino es posible que alguna vez te puedas encontrar con líneas que todavía no han sido adaptadas para un personaje femenino. **En cualquier caso, no tengas ninguna duda de que se trata de la mejor traducción de Siege of Dragonspear al español que puedes encontrarte hasta la fecha.***
 
