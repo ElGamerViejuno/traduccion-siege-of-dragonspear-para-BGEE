@@ -124,7 +124,7 @@ Recordad que se trata de un proyecto que puede llevar años para considerarlo al
 ¡Mucha paciencia!
 
 Te recomiendo encarecidamente que te veas esta guía sobre los mejores mods y archivos importantes para jugar a "Baldur's Gate: Enhanced Edition".
-https://steamcommunity.com/sharedfiles/filedetails/?id=2916537448
+https://github.com/ElGamerViejuno/guia-de-mods-y-archivos-esenciales-para-BGEE
 
 También he traducido varios mods diseñados para mejorar la experiencia con esta expansión;
 
