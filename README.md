@@ -17,7 +17,7 @@ Actualmente la traducción se encuentra en estado de BETA, espero ir mejorándol
 ## Descarga
 **[>>> TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.80 BETA <<<](https://drive.google.com/file/d/1BMGpkH8XsFLANElCGmTeRmzssaRiSdto)**
 
-*Recuerda que se trata de una versión BETA; Quizás te encuentres con alguna línea mal traducida sin revisar o con alguna palabra con el género equivocado. Vas a encontrarte que la mayoría de líneas han sido adaptadas al tratamiento de usía, pero puede colarse alguna palabra que todavía no este adaptada. Si juegas con un personaje femenino es posible que alguna vez te puedas encontrar con líneas que todavía no han sido adaptadas para un personaje femenino. **En cualquier caso, no tengas ninguna duda de que se trata de la mejor traducción de Siege of Dragonspear al español que puedes encontrarte hasta la fecha.***
+*Recuerda que se trata de una versión BETA; Quizás alguna vez te encuentres con alguna línea mal traducida sin revisar o con alguna palabra con el género equivocado. La mayoría de líneas han sido adaptadas al tratamiento de usía, pero puede colarse alguna palabra que todavía no este adaptada. Si juegas con un personaje femenino es posible que alguna vez te puedas encontrar con líneas que todavía no han sido adaptadas para un personaje femenino. **En cualquier caso, no tengas ninguna duda de que se trata de la mejor traducción de Siege of Dragonspear al español que puedes encontrarte hasta la fecha.***
 
 ## Instrucciones de instalación
 Esta traducción al igual que cualquier otro mod diseñado para esta expansión, solo funcionará si antes se ha instalado un mod llamado "DLC Merger", el cual es ABSOLUTAMENTE NECESARIO Y DEBES INSTALARLO SIEMPRE PRIMERO si vas realizar cualquier tipo de modificación en los archivos del juego.
@@ -108,7 +108,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se han corregido todas las líneas relacionadas una NPC mujer llamada "Vigilante Halasan" que no la describían correctamente.
 - Se ha corregido un error masivo que impedía escuchar las voces añadidas en numerosas líneas que tuvieran una versión para protagonistas femeninos, estas voces no funcionaban si jugabas con un personaje protagonista masculino. Incluso voces importantes como las del narrador entre capítulos nunca se activaban.
 
-**Versión 0.80 BETA (??/??/2024) (Todavía sin lanzamiento)**
+**Versión 0.80 BETA (05/08/2024)**
 - Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía y frases para personajes femeninos añadidas (Gracias Otaku_fanatic por todos los reportes).
 - (Experimental) Se han revisado palabras relacionadas con cargos, rangos militares y tratamientos varios, intentando seguir las pautas de la RAE respecto a si estas deben escribirse con mayúsculas o minúsculas. Con excepciones para títulos nobiliarios y ciertos personajes importantes en el lore, ya que estos que siempre han sido leídos con mayúsculas tanto en las antiguas traducciones de ClanDlan como en su versión original en inglés.
 - (Experimental) Se ha restaurado el comando <PRO_RACE> en todas las líneas del juego base (BGEE) como la expansión (SoD) donde la versión original en inglés sí que lo incluye este comando. Las frases ingame con este comando nombran la raza y el género de tu personaje principal.
