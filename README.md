@@ -108,7 +108,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se han corregido todas las líneas relacionadas una NPC mujer llamada "Vigilante Halasan" que no la describían correctamente.
 - Se ha corregido un error masivo que impedía escuchar las voces añadidas en numerosas líneas que tuvieran una versión para protagonistas femeninos, estas voces no funcionaban si jugabas con un personaje protagonista masculino. Incluso voces importantes como las del narrador entre capítulos nunca se activaban.
 
-**Versión 0.80 BETA (06/08/2024)**
+**Versión 0.80 BETA (23/08/2024)**
 - Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía y frases para personajes femeninos añadidas (Gracias Otaku_fanatic por todos los reportes).
 - (Experimental) Se han revisado palabras relacionadas con cargos, rangos militares y tratamientos varios, intentando seguir las pautas de la RAE respecto a si estas deben escribirse con mayúsculas o minúsculas. Con excepciones para títulos nobiliarios y ciertos personajes importantes en el lore, ya que estos que siempre han sido leídos con mayúsculas tanto en las antiguas traducciones de ClanDlan como en su versión original en inglés.
 - (Experimental) Se ha restaurado el comando <PRO_RACE> en todas las líneas del juego base (BGEE) como la expansión (SoD) donde la versión original en inglés sí que lo incluye este comando. Las frases ingame con este comando nombran la raza y el género de tu personaje principal.
