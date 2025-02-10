@@ -119,7 +119,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se ha revisado como aparecen los textos de las descripciones de objetos, notas y pergaminos en esta traducción, buscando homogeneizar las descripciones de los objetos para dejarlas en un formato similar a las traducciones originales de ClanDlan para BGEE y BG2EE.
 
 **Versión 0.90 BETA (Proximamente)**
-- Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía, frases para personajes femeninos añadidas (ya empieza ser difícil encontrar errores en la traducción).
+- Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía, frases para personajes femeninos añadidas (ya empieza a ser difícil encontrar errores en la traducción).
 - El "Puente Boareskyr", un conocido lugar del dentro del juego a sido cambiado por "Puente Jabaeskyr" según diversos glosarios inglés-español de Reinos Olvidades encontrados.
 - Numerosas líneas donde se nombraba a "mi Señora" o "la Señora" en referencia a la "Dama Radiante" han sido cambiadas por "mi Dama" o "la Dama".
 
