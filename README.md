@@ -120,7 +120,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 
 **Versión 0.90 BETA (Proximamente)**
 - Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía, frases para personajes femeninos añadidas (ya empieza a ser difícil encontrar errores en la traducción).
-- El "Puente Boareskyr", un conocido lugar del dentro del juego a sido cambiado por "Puente Jabaeskyr" según diversos glosarios inglés-español de Reinos Olvidades encontrados.
+- El "Puente Boareskyr", un conocido lugar del dentro del juego a sido cambiado por "Puente Jabaeskyr" según diversos glosarios inglés-español de Reinos Olvidados encontrados.
 - Numerosas líneas donde se nombraba a "mi Señora" o "la Señora" en referencia a la "Dama Radiante" han sido cambiadas por "mi Dama" o "la Dama".
 
 ## Recomendaciones y agradecimientos
