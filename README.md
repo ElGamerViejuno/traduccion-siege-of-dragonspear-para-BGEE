@@ -119,9 +119,11 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se ha revisado como aparecen los textos de las descripciones de objetos, notas y pergaminos en esta traducción, buscando homogeneizar las descripciones de los objetos para dejarlas en un formato similar a las traducciones originales de ClanDlan para BGEE y BG2EE.
 
 **Versión 0.90 BETA (Proximamente)**
-- Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía, frases para personajes femeninos añadidas (empieza a ser difícil encontrar errores en la traducción).
+- Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía, frases para personajes femeninos añadidas.
 - El "Puente Boareskyr", un conocido lugar del dentro del juego a sido cambiado por "Puente Jabaeskyr" según diversos glosarios inglés-español de Reinos Olvidados encontrados.
+- La ciudad de "Calimport" a sido renombrada como "Puerto Cálim" según un antiguo glosario de ClanDlan.
 - Numerosas líneas donde se nombraba a "mi Señora" o "la Señora" en referencia a "la Dama Radiante" han sido cambiadas por "mi Dama" o "la Dama".
+- Ya empieza a ser complicado encontrar errores en la traducción y se puede considerar una traducción de alta calidad, pero todavía hay margen de mejora. La versión 1.00 de esta traducción no llegará hasta que la considere al mismo nivel de calidad que las antiguas traducciones de ClanDlan.
 
 ## Recomendaciones y agradecimientos
 Recordad que se trata de un proyecto que puede llevar años para considerarlo al 100% finalizado, con nuevas revisiones y atendiendo nuevos reportes de los jugadores.
