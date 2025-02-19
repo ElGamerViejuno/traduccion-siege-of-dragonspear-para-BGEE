@@ -120,7 +120,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 
 **Versión 0.90 BETA (19/02/2025)**
 - Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía, frases para personajes femeninos añadidas.
-- El "Puente Boareskyr", un conocido lugar del dentro del juego a sido cambiado por "Puente Jabaeskyr" según diversos glosarios inglés-español de Reinos Olvidados encontrados.
+- El "Puente Boareskyr", un conocido lugar dentro del juego a sido cambiado por "Puente Jabaeskyr" según diversos glosarios inglés-español de Reinos Olvidados encontrados.
 - Las ciudades de "Calimport" y "Silverymoon" han sido renombradas como "Puerto Cálim" y "Argluna" según el antiguo glosario de ClanDlan.
 - Numerosas líneas donde se nombraba a "mi Señora" o "la Señora" en referencia a "la Dama Radiante" han sido cambiadas por "mi Dama" o "la Dama".
 - Se han revisado líneas relacionadas con Halatathlaer modificándolas al femenino porque según el lore es un dragón "hembra", osea es "una dragona" (incluso en su doblaje original en inglés sus voces estan realizadas por una mujer). Con ciertas excepciones, especialmente en las primeras interacciones con esta criatura, ya que los protagonistas a primera vista ni se imaginan el sexo de la criatura. 
