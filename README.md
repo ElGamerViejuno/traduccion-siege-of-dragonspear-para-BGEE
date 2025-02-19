@@ -15,7 +15,7 @@ Exactamente se trataba de una gran parte del primer capítulo de la expansión y
 Actualmente la traducción se encuentra tecnicamente completada, pero todavía en un estado BETA, porque espero poder seguir mejorando su calidad poco a poco, corrigiendo errores, adaptando las líneas con el mismo [tratamiento de usía](http://www.clandlan.net/foros/topic/29288-tratamiento-de-usia/) intentando simular un lenguaje español medieval, además de utilizar exactamente el mismo [diccionario de la lengua fantástica](http://diccionario.clandlan.net/) y el [glosario de términos](http://www.clandlan.net/foros/topic/34123-glosario-de-terminos-de-baldurs-gate/) utilizados en las anteriores traducciones de ClanDlan. Todo el feedback y reportes de errores que me podáis aportar será bienvenido ya que va tener un soporte continuado, revisando y corrigiendo todo lo que sea necesario hasta que podamos disponer de la mejor traducción posible.
 
 ## Descarga
-**[>>> TRADUCCIÓN SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.80 BETA <<<](https://drive.google.com/file/d/1_mb3MHTNKI6Q2o2Hy0ZmDR3stRJM-lDz)** 
+**[>>> TRADUCCIÓN BALDUR'S GATE: SIEGE OF DRAGONSPEAR AL ESPAÑOL v0.90 BETA <<<](https://drive.google.com/file/d/1zVX8NmSagagO4ATeaUmzIWpnd1gXuGHi)** 
 
 *Recuerda que se trata de una versión BETA; Quizás puedas encontrarte con alguna línea mal traducida sin revisar. La mayoría de líneas han sido adaptadas al tratamiento de usía, pero puede colarse alguna palabra que todavía no este adaptada. Si juegas con un personaje femenino es posible que alguna vez te puedas encontrar con alguna línea que todavía no han sido adaptadas para un personaje femenino. **En cualquier caso, no tengas ninguna duda de que se trata de la mejor traducción de Siege of Dragonspear al español que puedes encontrarte hasta la fecha.***
 
@@ -24,7 +24,7 @@ Esta traducción al igual que cualquier otro mod diseñado para esta expansión,
 
 DLC Merger -> https://github.com/Argent77/A7-DlcMerger/releases
 
-- Descarga y descomprime el archivo win-64bit-A7-DlcMerger-v1.6.zip si utilizas el típico windows 64bits
+- Descarga y descomprime el archivo win-64bit-DlcMerger-v1.7.zip si utilizas el típico windows 64bits
 
 - Copia y pega todos sus archivos en la carpeta raíz con la instalación del juego;
 
@@ -48,7 +48,7 @@ Puedes sobreescribir encima de los archivos anteriores sin problema o hacer copi
 
 Utiliza siempre una instalación limpia y antes de instalar ninguna modificación al juego lo primero que debes instalar es el "DLC Merger" y luego esta traducción (que incluye tambien los textos del juego base) antes que ninguna otra modificación.
 
-Si se te ocurre instalar esta traducción en una instalación ya con mods anteriormente instalados se perderán los textos de los mods anteriores generando problemas.
+Si se te ocurre instalar esta traducción en una instalación ya con mods anteriormente instalados se perderán y/o se estropearán los textos de los mods anteriores generando problemas.
 
 Si vas a instalar una nueva versión de esta traducción más actualizada es recomendable que lo hagas en una nueva instalación limpia, especialmente si utilizabas otros mods. Las partidas guardadas no las perderás ya que se guardan en una carpeta aparte.
 
@@ -118,7 +118,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se han revisado los títulos de las gestas dentro del diario.
 - Se ha revisado como aparecen los textos de las descripciones de objetos, notas y pergaminos en esta traducción, buscando homogeneizar las descripciones de los objetos para dejarlas en un formato similar a las traducciones originales de ClanDlan para BGEE y BG2EE.
 
-**Versión 0.90 BETA (Proximamente)**
+**Versión 0.90 BETA (19/02/2025)**
 - Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía, frases para personajes femeninos añadidas.
 - El "Puente Boareskyr", un conocido lugar del dentro del juego a sido cambiado por "Puente Jabaeskyr" según diversos glosarios inglés-español de Reinos Olvidados encontrados.
 - Las ciudades de "Calimport" y "Silverymoon" han sido renombradas como "Puerto Cálim" y "Argluna" según el antiguo glosario de ClanDlan.
