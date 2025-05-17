@@ -133,9 +133,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - La traducción ya deja de considerarse en un estado "BETA" y la podemos considerar una traducción finalizada de gran calidad. Continuará recibiendo soporte y arreglos con cualquier error reportado o mejora que se pueda implementar.
 
 ## Recomendaciones y agradecimientos
-Recordad que se trata de un proyecto que puede llevar años para considerarlo al 100% finalizado, con nuevas revisiones y atendiendo nuevos reportes de los jugadores.
-
-¡Mucha paciencia!
+Recordad que se trata de un proyecto que todavía no se va considerar al 100% finalizado, con nuevas revisiones cada cierto tiempo y atendiendo nuevos reportes de los jugadores.
 
 Te recomiendo encarecidamente que te veas esta guía sobre los mejores mods y archivos importantes para jugar a "Baldur's Gate: Enhanced Edition".
 https://github.com/ElGamerViejuno/guia-de-mods-y-archivos-esenciales-para-BGEE
