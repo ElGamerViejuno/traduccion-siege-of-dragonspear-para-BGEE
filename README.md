@@ -127,8 +127,8 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Empieza a ser complicado encontrar errores en la traducción y ya se podría considerar una traducción finalizada de gran calidad, pero todavía se puede mejorar.  
 
 **Versión 1.0 (??/??/????)**
-- Multitud de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía, frases para personajes femeninos añadidas.
-- Se han arreglado un gran número de líneas para personajes masculinos que no activaban correctamente su audio correspondiente.
+- Una gran cantidad de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía, frases para personajes femeninos añadidas.
+- Se han arreglado una gran cantidad de líneas para personajes masculinos que no activaban correctamente su audio correspondiente.
 - Se han borrado algunas líneas repetidas para personajes femeninos que tenían exactamente los mismos textos que en su versión masculina en la traducción del juego base.
 - La traducción ya deja de considerarse en un estado "BETA" y la podemos considerar una traducción finalizada de gran calidad. Continuará recibiendo soporte y arreglos con cualquier error reportado o mejora que se pueda implementar.
 
