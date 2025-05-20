@@ -126,7 +126,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se han revisado líneas relacionadas con Halatathlaer modificándolas al femenino porque según el lore es un dragón "hembra", osea es "una dragona" (incluso en su doblaje original en inglés sus voces estan realizadas por una mujer). Con ciertas excepciones, especialmente en las primeras interacciones con esta criatura, ya que los protagonistas a primera vista ni se imaginan el sexo de la criatura. 
 - Empieza a ser complicado encontrar errores en la traducción y ya se podría considerar una traducción finalizada de gran calidad, pero todavía se puede mejorar.  
 
-**Versión 1.0 (??/??/????)**
+**Versión 1.00 (??/??/????)**
 - Una gran cantidad de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía, frases para personajes femeninos añadidas.
 - Se han arreglado una gran cantidad de líneas para personajes masculinos que no activaban correctamente su audio correspondiente.
 - Se han eliminado una gran cantidad líneas innecesarias para personajes femeninos que tenían exactamente los mismos textos que en su versión masculina en la traducción del juego base.
