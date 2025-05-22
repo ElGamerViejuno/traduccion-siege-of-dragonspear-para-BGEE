@@ -130,7 +130,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Una gran cantidad de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía, frases para personajes femeninos añadidas.
 - Se han arreglado una gran cantidad de líneas para personajes masculinos que no activaban correctamente su audio correspondiente.
 - Se han eliminado una gran cantidad líneas innecesarias para personajes femeninos que tenían exactamente los mismos textos que en su versión masculina en la traducción del juego base.
-- Se han revisado los tiempos de lanzamiento y como se muestra en los conjuros del juego base, los cuales únicamente deben señalar un simple número del 0 al 9 al igual en las traducciones en todos los demas idiomas oficiales.
+- Se han revisado los tiempos de lanzamiento y como se muestran en los conjuros del juego base, los cuales únicamente deben señalar un simple número del 0 al 9 al igual en las traducciones en todos los demas idiomas oficiales.
 - Se han revisado el orden de las características de los objetos poniendo el peso de los objetos como última característica visible al igual que en las traducciones en todos los demas idiomas oficiales.
 - Se ha añadido a Silke (una NPC de Beregost) un comando para activar el doblaje exacto con la línea de texto "Saludos mercenarios soy Silke, extraordinaria actriz" cuando interactuas por primera vez con ella siendo enviado por Garrick. Al igual de como
 ocurre al interactuar con ella directamente sin haber interactuado antes con Garrick.
