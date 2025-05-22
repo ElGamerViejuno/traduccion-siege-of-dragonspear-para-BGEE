@@ -133,7 +133,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se ha revisado como se muestra los tiempos de lanzamiento en los conjuros del juego base, los cuales únicamente deberían señalar un simple número del 0 al 9 al igual en las traducciones en todos los demas idiomas oficiales.
 - Se han revisado el orden de las características de los objetos poniendo el peso de los objetos como última característica visible al igual que en las traducciones en todos los demas idiomas oficiales.
 - Se ha añadido a Silke (una NPC de Beregost) un comando para activar el doblaje exacto con la línea de texto "Saludos mercenarios soy Silke, extraordinaria actriz" cuando interactuas por primera vez con ella siendo enviado por Garrick. Al igual de como
-ocurre al interactuar con ella directamente sin haber interactuado antes ni haber aceptado antes la misión que te ofrece Garrick.
+ocurre al interactuar con ella directamente sin haber interactuado antes con Garrick.
 - La traducción ya deja de considerarse en un estado "BETA" y la podemos considerar una traducción finalizada de gran calidad. Continuará recibiendo soporte y arreglos con cualquier error reportado o mejora que se pueda implementar.
 
 ## Recomendaciones y agradecimientos
