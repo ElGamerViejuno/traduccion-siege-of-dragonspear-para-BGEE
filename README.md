@@ -126,15 +126,13 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se han revisado líneas relacionadas con Halatathlaer modificándolas al femenino porque según el lore es un dragón "hembra", osea es "una dragona" (incluso en su doblaje original en inglés sus voces estan realizadas por una mujer). Con ciertas excepciones, especialmente en las primeras interacciones con esta criatura, ya que los protagonistas a primera vista ni se imaginan el sexo de la criatura. 
 - Empieza a ser complicado encontrar errores en la traducción y ya se podría considerar una traducción finalizada de gran calidad, pero todavía se puede mejorar.  
 
-**Versión 1.00 (??/??/????)**
-- Una gran cantidad de arreglos y correcciones aleatorias adaptando líneas al tratamiento de usía, frases para personajes femeninos añadidas.
+**Versión 1.00 (29/03/2026)**
+- Una gran cantidad de arreglos y correcciones. Siempre adaptando líneas al tratamiento de usía y añadiendo líneas para personajes femeninos.
 - Se han arreglado una gran cantidad de líneas para personajes masculinos que no activaban correctamente su audio correspondiente.
 - Se han eliminado una gran cantidad líneas innecesarias para personajes femeninos que tenían exactamente los mismos textos que en su versión masculina en la traducción del juego base.
-- Se han revisado textos de los conjuros del juego base y la expansión SoD. Detalles como los tiempos de lanzamiento, medidas de distancia o algunas otras características no estaban correctamente descritas, al compararse con las traducciones de los demas idiomas oficiales. Este problema posiblemente se debiera a que muchos conjuros fueron siendo rebalanceados en las versiones "Enhanced Edition". En la traducción de ClanDlan se habrían utilizado los textos de la versión original de BG1 para los conjuros sin ninguna actualización de textos adicional.
+- Se han revisado textos de los conjuros del juego base y la expansión SoD. Detalles como los tiempos de lanzamiento, medidas de distancia o algunas otras características no estaban correctamente descritas, al compararse con las traducciones de los demas idiomas oficiales. Este problema posiblemente se debía a que muchos conjuros fueron rebalanceados en las versiones "Enhanced Edition". En la traducción de ClanDlan se habrían utilizado los textos de la versión original de BG1 para los conjuros sin ninguna actualización de textos adicional.
 - Se han revisado el orden de las características de los objetos poniendo el peso de los objetos como última característica visible al igual que en las traducciones en todos los demas idiomas oficiales.
-- Se ha añadido a Silke (una NPC de Beregost) un comando para activar el doblaje exacto con la línea de texto "Saludos mercenarios soy Silke, extraordinaria actriz" cuando interactuas por primera vez con ella siendo enviado por Garrick. Al igual de como
-ocurre al interactuar con ella directamente sin haber interactuado antes con Garrick.
-- La traducción ya deja de considerarse en un estado "BETA" y la podemos considerar una traducción finalizada de gran calidad. Continuará recibiendo soporte y arreglos con cualquier error reportado o mejora que se pueda implementar.
+- La traducción ya deja de considerarse en un estado "BETA" y se podría considerar una traducción finalizada de gran calidad, aunque tarde o temprano siempre acaba descubriendo algún error o alguna línea se puede mejorar. Por eso se continuará revisando la traducción ante cualquier error reportado o posible mejora que se pueda implementar.
 
 ## Recomendaciones y agradecimientos
 Recordad que esta traducción también contiene arreglos para el juego base (BGEE+SoD) y puede recibir nuevas revisiones cada cierto tiempo, atendiendo nuevos reportes de los jugadores.
