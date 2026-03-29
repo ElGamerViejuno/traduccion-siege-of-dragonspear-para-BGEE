@@ -132,7 +132,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se han eliminado una gran cantidad líneas duplicadas para CHARNAME femeninos que tenían exactamente los mismos textos que en su versión masculina en la traducción del juego base.
 - Se han revisado todos los conjuros del juego base y la expansión SoD. Específicamente detalles como los tiempos de lanzamiento, medidas de distancia o algunas otras características que no estaban correctamente descritas, al compararse con las traducciones de los demas idiomas oficiales.
 - Se han revisado el orden de las características de los objetos poniendo el peso de los objetos como última característica visible al igual que en las traducciones en todos los demas idiomas oficiales.
-- La traducción ya deja de considerarse en un estado "BETA" y ya se puede considerar una traducción finalizada de gran calidad, aunque tratándose de un archivo con un total de 96197 líneas (juego base + expansión) siempre puede aparecer algún error de traducción o alguna línea que se pueda mejorar. Siempre estoy abierto a seguir revisando la traducción ante cualquier reporte.
+- La traducción ya deja de considerarse en un estado "BETA" y ya se puede considerar una traducción finalizada de gran calidad, aunque tratándose de un total de 71403 líneas (juego base + expansión) siempre puede aparecer algún error de traducción todavía sin detectar o simplemente algunas líneas que se puedan mejorar. Siempre estoy abierto a seguir revisando la traducción ante cualquier reporte.
 
 ## Recomendaciones y agradecimientos
 Recordad que esta traducción también contiene arreglos para el juego base (BGEE+SoD) y puede recibir nuevas revisiones cada cierto tiempo, atendiendo nuevos reportes de los jugadores.
