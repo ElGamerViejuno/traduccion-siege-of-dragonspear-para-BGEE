@@ -24,7 +24,7 @@ Esta traducción al igual que cualquier otro mod diseñado para esta expansión,
 
 DLC Merger -> https://github.com/Argent77/A7-DlcMerger/releases
 
-- Descarga y descomprime el archivo win-64bit-DlcMerger-v1.7.zip si utilizas el típico windows 64bits
+- Descarga y descomprime el archivo win-64bit-DlcMerger-v1.8.zip si utilizas el típico Windows 64bits
 
 - Copia y pega todos sus archivos en la carpeta raíz con la instalación del juego;
 
