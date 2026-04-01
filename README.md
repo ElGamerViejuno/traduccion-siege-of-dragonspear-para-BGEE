@@ -135,7 +135,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - La traducción ya deja de considerarse en estado "BETA" y ya se puede considerar una traducción finalizada de gran calidad, aunque tratándose de un total de 71403 líneas (juego base + expansión) siempre puede aparecer algún fallo de traducción todavía sin detectar o líneas que se puedan mejorar. Siempre estoy abierto a seguir revisando la traducción ante cualquier reporte.
 
 ## Recomendaciones y agradecimientos
-Recuerda que esta traducción también contiene arreglos para el juego base (BGEE+SoD) realizada por ClanDlan y puede recibir nuevas revisiones cada cierto tiempo, atendiendo nuevos reportes de los jugadores.
+Recuerda que esta traducción también contiene arreglos para los textos del juego base (BGEE+SoD) y puede recibir nuevas revisiones cada cierto tiempo, atendiendo nuevos reportes de los jugadores.
 
 Te recomiendo encarecidamente que te veas esta guía sobre los mejores mods y archivos importantes para jugar a "Baldur's Gate: Enhanced Edition".
 https://github.com/ElGamerViejuno/guia-de-mods-y-archivos-esenciales-para-BGEE
