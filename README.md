@@ -17,7 +17,7 @@ Actualmente la traducción se encuentra tecnicamente completada, pero todavía e
 ## Descarga
 **[>>> TRADUCCIÓN BALDUR'S GATE: SIEGE OF DRAGONSPEAR AL ESPAÑOL v1.00 <<<](https://drive.google.com/file/d/14xNWO90hNRd43_N81p0cL-F2ZRU20trp)** 
 
-*Si te encuentras cualquier fallo con alguna línea mal traducida, o algún fallo con el tratamiento de usía, o algún error de género en alguna línea que no ha sido adaptada para un personaje femenino, toma una captura y repórtalo en el Discord de [Baldur's Gate Hispano](https://discord.gg/5r4y4PZ).*
+*Si te encuentras cualquier fallo con alguna línea mal traducida, o algún fallo con el tratamiento de usía, o algún error de género, toma una captura y repórtalo en el Discord de [Baldur's Gate Hispano](https://discord.gg/5r4y4PZ).*
 
 ## Instrucciones de instalación
 Esta traducción al igual que cualquier otro mod diseñado para esta expansión, solo funcionará si antes se ha instalado un mod llamado "DLC Merger", el cual es ABSOLUTAMENTE NECESARIO Y DEBES INSTALARLO SIEMPRE PRIMERO si vas realizar cualquier tipo de modificación en los archivos del juego.
