@@ -126,7 +126,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se han revisado líneas relacionadas con Halatathlaer modificándolas al femenino porque según el lore es un dragón "hembra", osea es "una dragona" (incluso en su doblaje original en inglés sus voces estan realizadas por una mujer). Con ciertas excepciones, especialmente en las primeras interacciones con esta criatura, ya que los protagonistas a primera vista ni se imaginan el sexo de la criatura. 
 - Empieza a ser complicado encontrar errores en la traducción y ya se podría considerar una traducción finalizada de bastante calidad, pero todavía se puede mejorar.  
 
-**Versión 1.00 (31/03/2026)**
+**Versión 1.00 (01/04/2026)**
 - Una gran cantidad de arreglos y correcciones. Siempre adaptando líneas al tratamiento de usía y añadiendo líneas para personajes femeninos.
 - Se han arreglado una gran cantidad de líneas para CHARNAME masculinos que no activaban correctamente su audio correspondiente.
 - Se han eliminado una gran cantidad líneas duplicadas para CHARNAME femeninos que tenían exactamente los mismos textos que en su versión masculina en la traducción del juego base.
