@@ -148,8 +148,8 @@ También he traducido varios mods diseñados para mejorar la experiencia con est
 - **[Jastey's SoD Tweak Pack](https://github.com/Gibberlings3/Jasteys_SoD_Tweakpack)**: Modificaciones, opciones de diálogo, contenido original restaurado y situaciones en la expansión. Incluye opción de saltarse la mazmorra inicial. El componente "Restaurar la escena del secuestro" es IMPRESCINDIBLE para disfrutar del final completo de la expansión.
 - **[SoD Dialogue Banters](https://github.com/AstroBryGuy/SoD-Dialog-Banters)**: Cambia los diálogos de los banters entre los NPC's al estilo "on-the-run" utilizado en la expansión al formato de diálogo con pausa utilizado en BG1 y BG2.
 
-Si buscas más información y conocer a otros fans del juego puedes unirte la comunidad de Discord de **[Baldur's Gate Hispano](https://discord.gg/5r4y4PZ)** o si también quieres consultarme cualquier cosa, a menudo me puedes encontrar en mi canal de **[Twitch](https://www.twitch.tv/elgamerviejuno)** dándole al vicio en directo.
+Si buscas más información y/o conocer a otros fans de la saga puedes unirte la comunidad de Discord de **[Baldur's Gate Hispano](https://discord.gg/5r4y4PZ)** o si también quieres consultarme cualquier cosa, a menudo me puedes encontrar en mi canal de **[Twitch](https://www.twitch.tv/elgamerviejuno)** dándole al vicio en directo.
 
-¡Disfruten de la traducción!
+¡Disfruten de la tradu!
 
 ***Agradecimiento especial a Memnoch.***
