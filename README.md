@@ -137,7 +137,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 ## Recomendaciones y agradecimientos
 Recuerda que esta traducción también contiene arreglos para los textos del juego base (BGEE+SoD) y puede recibir nuevas revisiones cada cierto tiempo, atendiendo nuevos reportes de los jugadores.
 
-Te recomiendo encarecidamente que te veas esta guía sobre los mejores mods y archivos importantes para jugar a "Baldur's Gate: Enhanced Edition".
+Te recomiendo que te veas esta guía sobre los mejores mods y archivos importantes para jugar a "Baldur's Gate: Enhanced Edition".
 https://github.com/ElGamerViejuno/guia-de-mods-y-archivos-esenciales-para-BGEE
 
 También he traducido varios mods diseñados para mejorar la experiencia con esta expansión;
