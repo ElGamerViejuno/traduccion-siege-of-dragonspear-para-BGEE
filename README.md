@@ -15,7 +15,7 @@ Exactamente se trataba de una gran parte del primer capítulo de la expansión y
 Actualmente la traducción ya esta completada, pero sigo abierto a seguir revisándola ante cualquier reporte para continuar mejorando su calidad, corrigiendo errores, adaptando las líneas con el mismo [tratamiento de usía](http://www.clandlan.net/foros/topic/29288-tratamiento-de-usia/) intentando simular un lenguaje español medieval, además de utilizar exactamente el mismo [diccionario de la lengua fantástica](http://diccionario.clandlan.net/) y el [glosario de términos](http://www.clandlan.net/foros/topic/34123-glosario-de-terminos-de-baldurs-gate/) utilizados en las anteriores traducciones de ClanDlan. Todo el feedback y reportes de errores que me podáis aportar será bienvenido.
 
 ## Descarga
-**[>>> TRADUCCIÓN BALDUR'S GATE: SIEGE OF DRAGONSPEAR AL ESPAÑOL v1.00 <<<](https://drive.google.com/file/d/14xNWO90hNRd43_N81p0cL-F2ZRU20trp)** 
+**[>>> TRADUCCIÓN BALDUR'S GATE: SIEGE OF DRAGONSPEAR AL ESPAÑOL v1.00 <<<](https://drive.google.com/file/d/1AA14gs5GsCMl3Q2K64l3auOB6CciRNGx)** 
 
 *Si al jugar con esta traducción te encuentras cualquier fallo con alguna línea mal traducida, o algún fallo con el tratamiento de usía, o algún error de género, toma una captura y repórtalo en el Discord de [Baldur's Gate Hispano](https://discord.gg/5r4y4PZ).*
 
