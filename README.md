@@ -34,9 +34,9 @@ En Steam:
 En GoG Galaxy:
 "C:\Program Files (x86)\GOG Galaxy\Games\Baldur's Gate - Enhanced Edition"
 
-- Ejecuta el archivo setup-DlcMerger.exe, primero te pedirá ***"Choose your language:"***, elige ***"3 [Spanish]"***, segundo te va decir ***"Please choose the language in which you wish to play the game."***, elige nuevamente ***"3 [Spanish]"***, luego te preguntará si quieres ver el "readme", responde lo que quieras y por último te dirá ***"Install Component [Fusionar el DLC con el juego]"***, elige ***"1] Fusionar el DLC "Siege of Dragonspear"***.
+- Ejecuta el archivo setup-DlcMerger.exe (Si te sale algún aviso en plan "SmartScreen de Microsoft Defender impidió el inicio de una aplicación desconocida", ignoralo, pincha en "Más información" y luego "Ejecutar de todas formas"), primero te pedirá ***"Choose your language:"***, elige ***"3 [Spanish]"***, segundo te va decir ***"Please choose the language in which you wish to play the game."***, elige nuevamente ***"3 [Spanish]"***, luego te preguntará si quieres ver el "readme", responde lo que quieras y por último te dirá ***"Install Component [Fusionar el DLC con el juego]"***, elige ***"1] Fusionar el DLC "Siege of Dragonspear"***.
 
-- Una vez que hayas instalado correctamente el "DLC Merger" (Puedes confirmarlo mirando el archivo "WeiDU.log") copia y pega los archivos "dialog.tlk" y "dialogf.tlk" de la traducción en la siguiente carpeta;
+- Una vez que hayas instalado correctamente el "DLC Merger" (Puedes confirmarlo mirando el archivo "WeiDU.log") copia y pega la carpeta "tradusod" y el archivo "setup-tradusod.exe" en la carpeta donde tienes instalado el juego;
 
 En Steam:
 "C:\Program Files (x86)\Steam\steamapps\common\Baldur's Gate Enhanced Edition\lang\es_ES"
@@ -44,9 +44,10 @@ En Steam:
 En GoG Galaxy:
 "C:\Program Files (x86)\GOG Galaxy\Games\Baldur's Gate - Enhanced Edition\lang\es_ES"
 
-Puedes sobreescribir encima de los archivos anteriores sin problema o hacer copia de seguridad si lo deseas.
+- Ejecuta el archivo "setup-tradusod.exe" e instala el componente ***[Traducción de Siege of Dragonspear al español y arreglos de texto para BGEE+SoD]*** (Puedes confirmar que esta bien instalado mirando el archivo "WeiDU.log" o al arrancar el juego vas a "OPCIONES", "IDIOMA" y en "spanish" deberías ver varias veces la palabra "ElGamerViejuno" entre los créditos de la traducción, junto a otros miembros de la extinta comunidad de ClanDlan).
 
-Utiliza siempre una instalación limpia y antes de instalar ninguna modificación al juego lo primero que debes instalar es el "DLC Merger" y luego esta traducción (que incluye tambien los textos del juego base) antes que ninguna otra modificación.
+## Recomendaciones
+Utiliza siempre una instalación limpia y antes de instalar ninguna modificación al juego lo primero que debes instalar es el "DLC Merger" y luego esta traducción (que incluye y mejora también los textos del juego base) antes que ninguna otra modificación.
 
 Si se te ocurre instalar esta traducción en una instalación ya con mods anteriormente instalados se perderán y/o se estropearán los textos de los mods anteriores generando problemas.
 
