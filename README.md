@@ -136,7 +136,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - La traducción ya deja de considerarse en estado "BETA" y ya se puede considerar una traducción finalizada de gran calidad, aunque tratándose de un total de 71403 líneas (juego base + expansión) siempre puede aparecer algún fallo de traducción todavía sin detectar o líneas que se puedan mejorar. Siempre estoy abierto a seguir revisando la traducción ante cualquier reporte.
 
 **Versión 1.10 (??/??/2027)**
-- Con el principal motivo de incluir esta traducción de la expansión y sus multiples actualizaciones de textos del juego base (BGEE+SoD) oficialmente dentro de los juegos de Beamdog. Cada línea de la traducción esta siendo revisada y siendo añadida una por una dentro de la plataforma de traducciones de Beamdog. Arreglando muchos errores pasados por alto y puliendo la traducción todavía mucho más allá de lo que en principio había sido planeado.
+- Con el principal motivo de incluir esta traducción de la expansión y sus multiples actualizaciones de textos del juego base (BGEE+SoD) oficialmente dentro de los juegos de Beamdog. Cada línea de la traducción esta siendo revisada y siendo añadida una por una dentro de la plataforma de traducciones de Beamdog. Arreglando fallos y errores pasados por alto, puliendo y mejorando la traducción todavía mucho más allá de lo que en principio había sido planeado.
 - Más detalles en el futuro...
 
 ## Recomendaciones y agradecimientos
