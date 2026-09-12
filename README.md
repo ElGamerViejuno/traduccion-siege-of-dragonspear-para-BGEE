@@ -137,7 +137,7 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 
 **Versión 1.10 (??/??/2027)**
 - Con el principal motivo de incluir esta traducción de la expansión y sus multiples actualizaciones de textos del juego base (BGEE+SoD) oficialmente dentro de los juegos de Beamdog. Cada línea de la traducción esta siendo revisada y añadida una por una dentro de la plataforma de traducciones de Beamdog. Arreglando fallos y errores pasados por alto, puliendo y mejorando la traducción todavía mucho más allá de lo que en principio había sido planeado.
-- Más detalles en el futuro...
+- Más detalles en un futuro, esperemos no muy lejano...
 
 ## Recomendaciones y agradecimientos
 Recuerda que esta traducción también contiene arreglos para los textos del juego base (BGEE+SoD) y puede recibir nuevas revisiones cada cierto tiempo, atendiendo nuevos reportes de los jugadores.
