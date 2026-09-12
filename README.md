@@ -135,6 +135,10 @@ Si vas a instalar una nueva versión de esta traducción más actualizada es rec
 - Se han revisado textos de todos los objetos del juego base y la expansión SoD, buscando homogeneizar el listado de características de los objetos, de una manera similar a como estan en los demás idiomas oficiales disponibles en el juego.
 - La traducción ya deja de considerarse en estado "BETA" y ya se puede considerar una traducción finalizada de gran calidad, aunque tratándose de un total de 71403 líneas (juego base + expansión) siempre puede aparecer algún fallo de traducción todavía sin detectar o líneas que se puedan mejorar. Siempre estoy abierto a seguir revisando la traducción ante cualquier reporte.
 
+**Versión 1.10 (??/??/2027)**
+- Con el principal motivo de incluir esta traducción de la expansión y sus multiples actualizaciones de textos del juego base (BGEE+SoD) oficialmente dentro de los juegos de Beamdog. La traducción esta siendo revisada y siendo añadida en la plataforma de traducciones de Beamdog. Cada línea se está volviendo a revisar una por una. Arreglando muchos errores pasados por alto y puliendo la traducción todavía mucho más allá de lo que en principio había sido planeado.
+- Más detalles en el futuro...
+
 ## Recomendaciones y agradecimientos
 Recuerda que esta traducción también contiene arreglos para los textos del juego base (BGEE+SoD) y puede recibir nuevas revisiones cada cierto tiempo, atendiendo nuevos reportes de los jugadores.
 
